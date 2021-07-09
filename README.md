@@ -7,6 +7,11 @@ Add-on supports an adaptive response action item in Splunk Enterprise Security t
 
 ![website](https://user-images.githubusercontent.com/65529349/125061700-3b220400-e0cb-11eb-9d35-34e845403ee6.png)
 
+# Configuration
+
+To configure this add-on to work, you will need API credentials : Client ID and Client Secret from Sophos Central.
+
+![image](https://user-images.githubusercontent.com/65529349/125064442-4d517180-e0ce-11eb-91fb-1838f832009d.png)
 
 
 Sophos Central API has three different type of id : Partners, organizations and tenants.
