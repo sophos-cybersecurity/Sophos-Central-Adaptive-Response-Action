@@ -1,0 +1,1 @@
+# Sophos-Central-add-on-for-Splunk
