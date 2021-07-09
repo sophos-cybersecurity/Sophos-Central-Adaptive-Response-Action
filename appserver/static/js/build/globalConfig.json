@@ -1,0 +1,57 @@
+{
+    "meta": {
+        "name": "TA-central-website-management",
+        "displayName": "Central Website Management",
+        "version": "1.0.0",
+        "apiVersion": "3.0.0",
+        "restRoot": "TA_central_website_management"
+    },
+    "pages": {
+        "configuration": {
+            "title": "Configuration",
+            "description": "Set up your add-on",
+            "tabs": [
+                {
+                    "name": "additional_parameters",
+                    "title": "Add-on Settings",
+                    "entity": [
+                        {
+                            "field": "client_id",
+                            "label": "client_id",
+                            "type": "text",
+                            "help": "",
+                            "required": false,
+                            "defaultValue": "",
+                            "encrypted": true,
+                            "validators": [
+                                {
+                                    "type": "string",
+                                    "minLength": 0,
+                                    "maxLength": 8192,
+                                    "errorMsg": "Max length of password is 8192"
+                                }
+                            ]
+                        },
+                        {
+                            "field": "client_secret",
+                            "label": "client_secret",
+                            "type": "text",
+                            "help": "",
+                            "required": false,
+                            "defaultValue": "",
+                            "encrypted": true,
+                            "validators": [
+                                {
+                                    "type": "string",
+                                    "minLength": 0,
+                                    "maxLength": 8192,
+                                    "errorMsg": "Max length of password is 8192"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
