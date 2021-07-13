@@ -18,7 +18,9 @@ https://developer.sophos.com/getting-started-tenant
 
 Sophos Central API has three different type of accoun : Partners, organizations and tenants.  
 
-* Partners : https://developer.sophos.com/getting-started
+* Partners :  A partner is a business entity, typically a Distributor, a Value Added Reseller (VAR) or a Managed Service Provider (MSP) that operates within the Sophos sales channel. A partner manages multiple "tenants" and may sell Sophos software and services to multiple "organizations".
+    * API : https://developer.sophos.com/getting-started
 * organizations : https://developer.sophos.com/getting-started-organization
 * tenants : https://developer.sophos.com/getting-started-tenant
 
+For Partners and Organ
