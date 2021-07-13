@@ -25,4 +25,4 @@ Sophos Central API has three different type of accoun : Partners, organizations 
 * **Tenant** : A tenant is a collection of "resources" owned by an organization. An organization usually creates tenants for data isolation. They can also create tenants for ease of management. People that work for the organization, the devices they own, the security policies configured by an admin, and the security events generated, are all examples of resources that belong to the tenant.
     * API Documentation https://developer.sophos.com/getting-started-tenant
 
-**TL:DR** : In case of Partner or Organization you might will have more that one Tenant. 
+**TL:DR** : In case of Partner or Organization you might will have more that one Tenant. This Add-on will identify the type of account using [Whoami API](https://developer.sophos.com/docs/whoami-v1/1/routes/get) and will override the category in single or multiple tenanats as per account type.
