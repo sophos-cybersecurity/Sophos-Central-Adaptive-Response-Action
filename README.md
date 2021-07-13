@@ -16,5 +16,7 @@ https://developer.sophos.com/getting-started-tenant
 
 Sophos Central API has three different type of accoun : Partners, organizations and tenants.  
 
-
+* Partners : https://developer.sophos.com/getting-started
+* organizations : https://developer.sophos.com/getting-started-organization
+* tenants : https://developer.sophos.com/getting-started-tenant
 
