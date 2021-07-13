@@ -19,8 +19,10 @@ https://developer.sophos.com/getting-started-tenant
 Sophos Central API has three different type of accoun : Partners, organizations and tenants.  
 
 * Partners :  A partner is a business entity, typically a Distributor, a Value Added Reseller (VAR) or a Managed Service Provider (MSP) that operates within the Sophos sales channel. A partner manages multiple "tenants" and may sell Sophos software and services to multiple "organizations".
-    * API : https://developer.sophos.com/getting-started
-* organizations : https://developer.sophos.com/getting-started-organization
-* tenants : https://developer.sophos.com/getting-started-tenant
+    * API Documentation : https://developer.sophos.com/getting-started
+* organizations : An organization is a business entity that uses Sophos software and services. An organization has one or more tenants within Sophos Central.
+    * API Documentation : https://developer.sophos.com/getting-started-organization
+* tenants : A tenant is a collection of "resources" owned by an organization. An organization usually creates tenants for data isolation. They can also create tenants for ease of management. People that work for the organization, the devices they own, the security policies configured by an admin, and the security events generated, are all examples of resources that belong to the tenant.
+    * API Documentation https://developer.sophos.com/getting-started-tenant
 
 For Partners and Organ
