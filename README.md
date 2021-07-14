@@ -2,7 +2,7 @@
 
 This splunk add-on helps you to add/override a [website category](https://docs.sophos.com/central/Partner/help/en-us/central/common/tasks/ConfigureWebsiteList.html) into central tenants from splunk using Sophos Central API. 
 
-Add-on supports an adaptive response action item in Splunk Enterprise Security that you can configure in your corelation search or you can run it as an ad-hoc on any notable that gets triggered in Splunk. It works in the similar way as if you add a website in sophos central after login. 
+Add-on supports an adaptive response action item in Splunk Enterprise Security that you can configure in your corelation search or you can run it as an ad-hoc on any notable that gets triggered in Splunk. It works in the similar way as if you add a website in sophos central. 
 
 This add-on is really helpful if you have policies defined in your central tenant based on website category. e.g Adding a policy to block websites that are categorized as **Hacking**, which will block all the websites that are categorzied as Hacking in your Central tenant.
 
