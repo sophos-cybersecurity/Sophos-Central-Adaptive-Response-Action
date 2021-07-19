@@ -26,3 +26,8 @@ Sophos Central API has three different type of accounts : Partners, organization
     * API Documentation https://developer.sophos.com/getting-started-tenant
 
 **TL:DR** : In case of Partner or Organization you might will have more that one Tenant. This Add-on will identify the type of account using [Whoami API](https://developer.sophos.com/docs/whoami-v1/1/routes/get) and will override the category in single or multiple tenanats as per account type.
+
+![Splunk](https://user-images.githubusercontent.com/65529349/126145962-862ca941-c9cc-4a1c-a062-baa75f3fb8f0.png)
+
+![website](https://user-images.githubusercontent.com/65529349/126145968-d288d4b8-5405-41fc-8f38-d788b8f5c04c.png)
+
