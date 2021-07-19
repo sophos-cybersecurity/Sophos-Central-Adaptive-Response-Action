@@ -27,7 +27,7 @@ Sophos Central API has three different type of accounts : Partners, organization
 
 **TL:DR** : In case of Partner or Organization you might will have more that one Tenant. This Add-on will identify the type of account using [Whoami API](https://developer.sophos.com/docs/whoami-v1/1/routes/get) and will override the category in single or multiple tenanats as per account type.
 
-**How it works** :
+**How it works** : You can configure adaptive response action item in any notable or run ad-hoc adaptive response action by selecting any notable you want it to run on. Once you fill the form and click on "Run" domain will be added to central tenant from Splunk. 
 
 ![Splunk](https://user-images.githubusercontent.com/65529349/126145962-862ca941-c9cc-4a1c-a062-baa75f3fb8f0.png)
 
