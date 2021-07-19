@@ -1,4 +1,4 @@
-# Sophos-Central-add-on-for-Splunk
+# Sophos Central Adaptive Response Action
 
 This splunk add-on helps you to add/override a [website category](https://docs.sophos.com/central/Partner/help/en-us/central/common/tasks/ConfigureWebsiteList.html) into central tenants from splunk using Sophos Central API. 
 
